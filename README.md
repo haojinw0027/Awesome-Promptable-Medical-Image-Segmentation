@@ -1,7 +1,8 @@
 # <p align=center>`Awesome-Promptable-Medical-Image-Segmentation`</p> #
 
 ## Contents
-
+- [Related Survey](#related-survey)
+- [Few-shot Medical Image Segmentation](#-few-shot-medical-image-segmentation)
 
 ## 🔍Related Survey
 **Recent Advances in Medical Imaging Segmentation: A Survey** \
