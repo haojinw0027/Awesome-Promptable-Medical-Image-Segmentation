@@ -1,24 +1,33 @@
 # <p align=center>`Awesome-Promptable-Medical-Image-Segmentation`</p> #
 
 ## Contents
-- [Related Survey](#-related-survey)
+- [Related Survey](#-investigation-of-prompting-sam)
 - [Point Prompt](#-point-prompt)
 - [Few-shot Medical Image Segmentation](#-few-shot-medical-image-segmentation)
 - [Prompt Optimization](#-prompt-optimization)
 
-## 🔍 Related Survey
-**Recent Advances in Medical Imaging Segmentation: A Survey** \
-*Fares Bougourzi and Abdenour Hadid* <br>
-[Medical Image Analysis 2025] [[ArXiv](https://arxiv.org/abs/2505.09274)]
+## 🔍 Investigation of Prompting SAM
+**Medical sam adapter: Adapting segment anything model for medical image segmentation** \
+*Junde Wu, Wei Ji, Yuanpei Liu, Huazhu Fu, Min Xu, Yanwu Xu and Yueming Jin* <br>
+[MIA 2025] [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841525000945)] [[ArXiv](https://arxiv.org/abs/2304.12620)]
 
-**Is the medical image segmentation problem solved? A survey of current developments and future directions** \
-*Guoping Xu, Jayaram K. Udupa, Jax Luo, Songlin Zhao, Yajun Yu, Scott B. Raymond, Xiaoxue Qian, Nian Wang, Hao Peng, Steve Jiang, Weiguo Lu, Lipeng Ning, Yogesh Rathi, Wei Liu, You Zhang* <br>
-[[ArXiv](https://www.arxiv.org/abs/2508.20139)]
+**SAM on Medical Images: A Comprehensive Study on Three Prompt Modes** \
+*Dongjie Cheng, Ziyuan Qin, Zekun Jiang, Shaoting Zhang, Qicheng Lao and Kang Li* <br>
+[[ArXiv](https://arxiv.org/abs/2305.00035)]
 
 ## 🎯 Point Prompt
 **SAMAUG: POINT PROMPT AUGMENTATION FOR SEGMENT ANYTHING MODEL** \
 *Haixing Dai, Chong Ma, Zhiling Yan, Zhengliang Liu, Enze Shi, Yiwei Li, Peng Shu, Xiaozheng Wei, Lin Zhao, Zihao Wu, Fang Zeng, Dajiang Zhu, Wei Liu, Quanzheng Li, Lichao Sun, Shu Zhang, Tianming Liu, and Xiang Li* <br>
 [[ArXiv](https://arxiv.org/abs/2307.01187)]
+
+**Optimizing prompt strategies for SAM: advancing lesion segmentation across diverse medical imaging modalities** \
+*Yuli Wang, Victoria Shi, Wen-Chi Hsu, Yuwei Dai, Sophie Yao, Zhusi Zhong, Zishu Zhang, Jing Wu, Aaron Maxwell, Scott Collins, Zhicheng Jiao and Harrison X. Bai* <br>
+[Phys. Med. Biol 2025] [[Paper](https://iopscience.iop.org/article/10.1088/1361-6560/adfc20)] [[ArXiv] (https://arxiv.org/abs/2412.17943)]
+
+## 📦 BBox Prompt
+**MedLSAM: Localize and Segment Anything Model for 3D CT Images** \
+*Wenhui Lei, Xu Wei, Xiaofan Zhang, Kang Li and Shaoting Zhang* <br>
+[MIA 2025] [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841524002950)] [[ArXiv](https://arxiv.org/abs/2306.14752)] [[Code](https://github.com/openmedlab/MedLSAM)]
 
 ## 💡 Few-shot Medical Image Segmentation
 **Few-Shot Learning for Medical Image Classification** \
