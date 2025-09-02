@@ -3,7 +3,7 @@
 ## Contents
 - [Related Survey](#related-survey)
 - [Point Prompt](#point-prompt)
-- [Few-shot Medical Image Segmentation](#-few-shot-medical-image-segmentation)
+- [Few-shot Medical Image Segmentation](#few-shot-medical-image-segmentation)
 - [Prompt Optimization](#prompt-optimization)
 
 ## 🔍Related Survey
