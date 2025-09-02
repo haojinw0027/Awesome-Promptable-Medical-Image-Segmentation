@@ -25,6 +25,14 @@
 [Phys. Med. Biol 2025] [[Paper](https://iopscience.iop.org/article/10.1088/1361-6560/adfc20)] [[ArXiv] (https://arxiv.org/abs/2412.17943)]
 
 ## 📦 BBox Prompt
+**Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models** \
+*Sumit Pandey, Kuan-Fu Chen and Erik B. Dam* <br>
+[ICCVW 2023] [[Paper](https://www.computer.org/csdl/proceedings-article/iccvw/2023/074400c584/1TanjR1NsL6)] [[ArXiv](https://arxiv.org/abs/2310.12995)]
+
+**SAM-U: Multi-box Prompts Triggered Uncertainty Estimation for Reliable SAM in Medical Image** \
+*Guoyao Deng, Ke Zou, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying and Huazhu Fu* <br>
+[MICCAI 2023 Workshops] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47425-5_33)] [[ArXiv](https://arxiv.org/abs/2307.04973)]
+
 **MedLSAM: Localize and Segment Anything Model for 3D CT Images** \
 *Wenhui Lei, Xu Wei, Xiaofan Zhang, Kang Li and Shaoting Zhang* <br>
 [MIA 2025] [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841524002950)] [[ArXiv](https://arxiv.org/abs/2306.14752)] [[Code](https://github.com/openmedlab/MedLSAM)]
