@@ -1,12 +1,12 @@
 # <p align=center>`Awesome-Promptable-Medical-Image-Segmentation`</p> #
 
 ## Contents
-- [Related Survey](#related-survey)
-- [Point Prompt](#point-prompt)
-- [Few-shot Medical Image Segmentation](#few-shot-medical-image-segmentation)
-- [Prompt Optimization](#prompt-optimization)
+- [Related Survey](#-related-survey)
+- [Point Prompt](#-point-prompt)
+- [Few-shot Medical Image Segmentation](#-few-shot-medical-image-segmentation)
+- [Prompt Optimization](#-prompt-optimization)
 
-## 🔍Related Survey
+## 🔍 Related Survey
 **Recent Advances in Medical Imaging Segmentation: A Survey** \
 *Fares Bougourzi and Abdenour Hadid* <br>
 [Medical Image Analysis 2025] [[ArXiv](https://arxiv.org/abs/2505.09274)]
@@ -15,12 +15,12 @@
 *Guoping Xu, Jayaram K. Udupa, Jax Luo, Songlin Zhao, Yajun Yu, Scott B. Raymond, Xiaoxue Qian, Nian Wang, Hao Peng, Steve Jiang, Weiguo Lu, Lipeng Ning, Yogesh Rathi, Wei Liu, You Zhang* <br>
 [[ArXiv](https://www.arxiv.org/abs/2508.20139)]
 
-## 🎯Point Prompt
+## 🎯 Point Prompt
 **SAMAUG: POINT PROMPT AUGMENTATION FOR SEGMENT ANYTHING MODEL** \
 *Haixing Dai, Chong Ma, Zhiling Yan, Zhengliang Liu, Enze Shi, Yiwei Li, Peng Shu, Xiaozheng Wei, Lin Zhao, Zihao Wu, Fang Zeng, Dajiang Zhu, Wei Liu, Quanzheng Li, Lichao Sun, Shu Zhang, Tianming Liu, and Xiang Li* <br>
 [[ArXiv](https://arxiv.org/abs/2307.01187)]
 
-## 💡Few-shot Medical Image Segmentation
+## 💡 Few-shot Medical Image Segmentation
 **Few-Shot Learning for Medical Image Classification** \
 *Aihua Cai, Wenxin Hu and Jun Zheng* <br>
 [ICANN 2020] [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-61609-0_35)]
@@ -41,7 +41,7 @@
 *Qi Wu, Yuyao Zhang, Marawan Elbatel* <br>
 [MICCAI Workshop on Domain Adaptation and Representation Transfer 2022] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_16)] [[ArXiv](https://arxiv.org/abs/2308.07624)]
 
-## 🔧Prompt Optimization
+## 🔧 Prompt Optimization
 **AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder** \
 *Tal Shaharabany, Aviad Dahan, Raja Giryes, and Lior Wolf* <br>
 [BMVC 2023] [[Paper](https://proceedings.bmvc2023.org/530/)] [[ArXiv](https://arxiv.org/abs/2306.06370)] [[Code](https://github.com/talshaharabany/AutoSAM)]
