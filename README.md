@@ -57,6 +57,18 @@
 *Ziheng Zhao, Yao Zhang, Chaoyi Wu, Xiaoman Zhang, Ya Zhang, Yanfeng Wang and Weidi Xie* <br>
 [Digit. Med. 2025] [[Paper](https://www.nature.com/articles/s41746-025-01964-w)] [[ArXiv](https://arxiv.org/abs/2312.17183v5)]
 
+**Deep Instruction Tuning for Segment Anything Model** \
+*Xiaorui Huang, Gen Luo, Chaoyang Zhu, Bo Tong, Yiyi Zhou, Xiaoshuai Sun and Rongrong Ji* <br>
+[ACMMM 2024] [[Paper](https://dl.acm.org/doi/10.1145/3664647.3680571)] [[ArXiv](https://arxiv.org/abs/2404.00650)] [[Code](https://github.com/wysnzzzz/DIT)]
+
+**TP-DRSeg: Improving Diabetic Retinopathy Lesion Segmentation with Explicit Text-Prompts Assisted SAM** \
+*Wenxue Li, Xinyu Xiong, Peng Xia, Lie Ju and Zongyuan Ge* <br>
+[MICCAI 2024] [[Paper](https://papers.miccai.org/miccai-2024/794-Paper0014.html)] [[ArXiv](https://arxiv.org/abs/2406.15764)]
+
+**LGA: A Language Guide Adapter for Advancing the SAM Model’s Capabilities in Medical Image Segmentation** \
+*Jihong Hu, Yinhao Li, Hao Sun, Yu Song, Chujie Zhang, Lanfen Lin and Yen-Wei Chen* <br>
+[MICCAI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_57)]
+
 **ZePT: Zero-Shot Pan-Tumor Segmentation via Query-Disentangling and Self-Prompting** \
 *Yankai Jiang, Zhongzhen Huang, Rongzhao Zhang, Xiaofan Zhang and Shaoting Zhang* <br>
 [CVPR 2024] [[Paper](https://ieeexplore.ieee.org/document/10656766)] [[ArXiv](https://arxiv.org/abs/2312.04964)] [[Code](https://github.com/Yankai96/ZePT)]
@@ -67,9 +79,16 @@
 
 **CRISP-SAM2 : SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation** \
 *Xinlei Yu, Changmiao Wang, Hui Jin, Ahmed Elazab, Gangyong Jia, Xiang Wan, Changqing Zou and Ruiquan Ge* <br>
-[ArXiv 2025] [[ArXiv](https://arxiv.org/abs/2506.23121)]
+[ArXiv 2025] [[ArXiv](https://arxiv.org/abs/2506.23121)] [[Code](https://github.com/YU-deep/CRISP_SAM2)]
 
+## 🎨 Prompt Fusion
+**RefSAM: Efficiently adapting segmenting anything model for referring video object segmentation** \
+*Yonglin Li, Jing Zhang, Xiao Teng, Long Lan and Xinwang Liu* <br>
+[NEUNET 2025] [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608025008810)] [[ArXiv](https://arxiv.org/abs/2307.00997)]
 
+**Fine-grained Semantic Alignment with Transferred Person-SAM for Text-based Person Retrieval.** \
+*Yihao Wang, Meng Yang and Rui Cao* <br>
+[ACMMM 2024] [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681553)]
 
 ## 🔧 Prompt Optimization
 **AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder** \
