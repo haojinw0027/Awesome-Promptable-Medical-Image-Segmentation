@@ -76,7 +76,7 @@
 
 **Optimizing prompt strategies for SAM: advancing lesion segmentation across diverse medical imaging modalities** \
 *Yuli Wang, Victoria Shi, Wen-Chi Hsu, Yuwei Dai, Sophie Yao, Zhusi Zhong, Zishu Zhang, Jing Wu, Aaron Maxwell, Scott Collins, Zhicheng Jiao and Harrison X. Bai* <br>
-[Phys. Med. Biol 2025] [[Paper](https://iopscience.iop.org/article/10.1088/1361-6560/adfc20)] [[ArXiv] (https://arxiv.org/abs/2412.17943)]
+[Phys. Med. Biol 2025] [[Paper](https://iopscience.iop.org/article/10.1088/1361-6560/adfc20)] [[ArXiv](https://arxiv.org/abs/2412.17943)]
 
 ## 📦 Box Prompt
 **Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models** \
