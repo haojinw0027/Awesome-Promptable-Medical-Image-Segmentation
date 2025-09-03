@@ -72,7 +72,7 @@
 
 **CycleSAM: Few-Shot Surgical Scene Segmentation with Cycle- and Scene-Consistent Feature Matching** \
 *Aditya Murali, Farahdiba Zarin, Adrien Meyer, Pietro Mascagni, Didier Mutter and Nicolas Padoy* <br>
-[ArXiv 2025] [[Paper](https://arxiv.org/abs/2407.06795)]
+[ArXiv 2025] [[ArXiv](https://arxiv.org/abs/2407.06795)]
 
 **Optimizing prompt strategies for SAM: advancing lesion segmentation across diverse medical imaging modalities** \
 *Yuli Wang, Victoria Shi, Wen-Chi Hsu, Yuwei Dai, Sophie Yao, Zhusi Zhong, Zishu Zhang, Jing Wu, Aaron Maxwell, Scott Collins, Zhicheng Jiao and Harrison X. Bai* <br>
