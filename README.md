@@ -38,7 +38,7 @@
 [MICCAI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_45)]
 
 **Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation** \
-*Zhikai Wei, Wenhui Dong, Peilin Zhou, Yuliang Gu, Zhou Zhao and Yongchao Xu*
+*Zhikai Wei, Wenhui Dong, Peilin Zhou, Yuliang Gu, Zhou Zhao and Yongchao Xu* <br>
 [MICCAI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_50)] [[ArXiv](https://arxiv.org/abs/2409.12522)] [[Code](https://github.com/wkklavis/DAPSAM)]
 
 **Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision** \
