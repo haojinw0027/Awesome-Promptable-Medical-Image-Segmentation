@@ -8,6 +8,7 @@
 - [Mask Embedding Prompt](#-mask-embedding-prompt)
 - [Text Prompt](#-text-prompt)
 - [Prompt Fusion](#-prompt-fusion)
+- [Self and Auto Prompting](#-self-and-auto-prompting)
 
 ## 🔍 Investigation of Prompting SAM
 **Medical sam adapter: Adapting segment anything model for medical image segmentation** \
@@ -18,10 +19,6 @@
 *Dongjie Cheng, Ziyuan Qin, Zekun Jiang, Shaoting Zhang, Qicheng Lao and Kang Li* <br>
 [ArXiv 2023] [[ArXiv](https://arxiv.org/abs/2305.00035)]
 
-**Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation** \
-*Qi Wu, Yuyao Zhang and Marawan Elbatel* <br>
-[DART 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_16)] [[ArXiv](https://arxiv.org/abs/2308.07624)] [[Code](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM)]
-
 **PP-SAM: Perturbed Prompts for Robust Adaptation of Segment Anything Model for Polyp Segmentation** \
 *Md Mostafijur Rahman, Mustafa Munir, Debesh Jha, Ulas Bagci and Radu Marculescu* <br>
 [CVPR 2024] [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Rahman_PP-SAM_Perturbed_Prompts_for_Robust_Adaption_of_Segment_Anything_Model_CVPRW_2024_paper.pdf)] [[ArXiv](https://arxiv.org/abs/2405.16740)] [[Code](https://github.com/SLDGroup/PP-SAM)]
@@ -29,42 +26,6 @@
 **Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation** \
 *Juzheng Miao, Cheng Chen, Keli Zhang, Jie Chuai, Quanzheng Li and Pheng-Ann Heng* <br>
 [MICCAI 2024] [[Paper](https://papers.miccai.org/miccai-2024/170-Paper0321.html)] [[ArXiv](https://arxiv.org/abs/2407.05416)] [[Code](https://github.com/JuzhengMiao/CPC-SAM)]
-
-**Beyond Adapting SAM: Towards End-to-End Ultrasound Image Segmentation via Auto Prompting** \
-*Xian Lin, Yangyang Xiang, Li Yu and Zengqiang Yan* <br>
-[MICCAI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_3)] [[ArXiv](https://arxiv.org/abs/2309.06824)] [[Code](https://github.com/xianlin7/SAMUS)]
-
-**Optimizing Efficiency and Effectiveness in Sequential Prompt Strategy for SAM Using Reinforcement Learning** \
-*Yifei Huang, Chuyun Shen, Wenhao Li, Xiangfeng Wang, Bo Jin and Haibin Cai* <br>
-[MICCAI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_45)]
-
-**Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation** \
-*Zhikai Wei, Wenhui Dong, Peilin Zhou, Yuliang Gu, Zhou Zhao and Yongchao Xu* <br>
-[MICCAI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_50)] [[ArXiv](https://arxiv.org/abs/2409.12522)] [[Code](https://github.com/wkklavis/DAPSAM)]
-
-**Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision** \
-*Mélanie Gaillochet, Christian Desrosiers and Hervé Lombaert* <br>
-[MedAGI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73471-7_7)] [[ArXiv](https://arxiv.org/abs/2409.20293)] [[Code](https://github.com/Minimel/MedSAMWeakFewShotPromptAutomation)]
-
-**SAM-SP: Self-Prompting Makes SAM Great Again** \
-*Chunpeng Zhou, Kangjie Ning, Qianqian Shen, Sheng Zhou, Zhi Yu and Haishuai Wang* <br>
-[ArXiv 2024] [[ArXiv](https://arxiv.org/abs/2408.12364)]
-
-**SAM-MPA: Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting** \
-*Jie Xu, Xiaokang Li, Chengyu Yue, Yuanyuan Wang and Yi Guo* <br>
-[Neurips Workshop 2024] [[Paper](https://neurips.cc/virtual/2024/109352)] [[ArXiv](https://arxiv.org/abs/2411.17363)]
-
-**Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation** \
-*Kaiwen Huang, Tao Zhou, Huazhu Fu, Yizhe Zhang, Yi Zhou, Chen Gong and Dong Liang* <br>
-[IEEE Trans. Medical Imaging. 2025] [[Paper](https://ieeexplore.ieee.org/document/10843257)] [[ArXiv](https://arxiv.org/abs/2412.13742)] [[Code](https://github.com/taozh2017/KnowSAM)]
-
-**AutoProSAM: Automated Prompting SAM for 3D Multi-Organ Segmentation** \
-*Chengyin Li, Prashant Khanduri, Yao Qiang, Rafi Ibn Sultan, Indrin Chetty and Dongxiao Zhu* <br>
-[WACV 2025] [[Paper](https://www.computer.org/csdl/proceedings-article/wacv/2025/108300d577/25KlAxa8iZO)] [[ArXiv](https://arxiv.org/abs/2308.14936)] [[Code](https://github.com/ChengyinLee/AutoProSAM_2024)]
-
-**EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images** \
-*Yinsong Xu, Jiaqi Tang, Aidong Men and Qingchao Chen* <br>
-[IEEE Trans. Image Process. 2025] [[Paper](https://ieeexplore.ieee.org/document/10729707)] [[ArXiv](https://arxiv.org/abs/2311.06400)]
 
 **Evaluating Segmentation Accuracy with Diverse Prompt Strategies in Medsam** \
 *Muhammad Nouman, Ghada Khoriba and Essam A. Rashed* <br>
@@ -183,3 +144,44 @@
 **BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts** \
 *Suzhe Xu, Jialin Peng and Chengyuan Zhang* <br>
 [ArXiv 2025] [[ArXiv](https://arxiv.org/abs/2503.19769)]
+
+## 🔔 Self and Auto Prompting
+**Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation** \
+*Qi Wu, Yuyao Zhang and Marawan Elbatel* <br>
+[DART 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_16)] [[ArXiv](https://arxiv.org/abs/2308.07624)] [[Code](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM)]
+
+**Beyond Adapting SAM: Towards End-to-End Ultrasound Image Segmentation via Auto Prompting** \
+*Xian Lin, Yangyang Xiang, Li Yu and Zengqiang Yan* <br>
+[MICCAI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_3)] [[ArXiv](https://arxiv.org/abs/2309.06824)] [[Code](https://github.com/xianlin7/SAMUS)]
+
+**Optimizing Efficiency and Effectiveness in Sequential Prompt Strategy for SAM Using Reinforcement Learning** \
+*Yifei Huang, Chuyun Shen, Wenhao Li, Xiangfeng Wang, Bo Jin and Haibin Cai* <br>
+[MICCAI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_45)]
+
+**Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation** \
+*Zhikai Wei, Wenhui Dong, Peilin Zhou, Yuliang Gu, Zhou Zhao and Yongchao Xu* <br>
+[MICCAI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_50)] [[ArXiv](https://arxiv.org/abs/2409.12522)] [[Code](https://github.com/wkklavis/DAPSAM)]
+
+**Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision** \
+*Mélanie Gaillochet, Christian Desrosiers and Hervé Lombaert* <br>
+[MedAGI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73471-7_7)] [[ArXiv](https://arxiv.org/abs/2409.20293)] [[Code](https://github.com/Minimel/MedSAMWeakFewShotPromptAutomation)]
+
+**SAM-MPA: Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting** \
+*Jie Xu, Xiaokang Li, Chengyu Yue, Yuanyuan Wang and Yi Guo* <br>
+[Neurips Workshop 2024] [[Paper](https://neurips.cc/virtual/2024/109352)] [[ArXiv](https://arxiv.org/abs/2411.17363)]
+
+**SAM-SP: Self-Prompting Makes SAM Great Again** \
+*Chunpeng Zhou, Kangjie Ning, Qianqian Shen, Sheng Zhou, Zhi Yu and Haishuai Wang* <br>
+[ArXiv 2024] [[ArXiv](https://arxiv.org/abs/2408.12364)]
+
+**Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation** \
+*Kaiwen Huang, Tao Zhou, Huazhu Fu, Yizhe Zhang, Yi Zhou, Chen Gong and Dong Liang* <br>
+[IEEE Trans. Medical Imaging. 2025] [[Paper](https://ieeexplore.ieee.org/document/10843257)] [[ArXiv](https://arxiv.org/abs/2412.13742)] [[Code](https://github.com/taozh2017/KnowSAM)]
+
+**AutoProSAM: Automated Prompting SAM for 3D Multi-Organ Segmentation** \
+*Chengyin Li, Prashant Khanduri, Yao Qiang, Rafi Ibn Sultan, Indrin Chetty and Dongxiao Zhu* <br>
+[WACV 2025] [[Paper](https://www.computer.org/csdl/proceedings-article/wacv/2025/108300d577/25KlAxa8iZO)] [[ArXiv](https://arxiv.org/abs/2308.14936)] [[Code](https://github.com/ChengyinLee/AutoProSAM_2024)]
+
+**EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images** \
+*Yinsong Xu, Jiaqi Tang, Aidong Men and Qingchao Chen* <br>
+[IEEE Trans. Image Process. 2025] [[Paper](https://ieeexplore.ieee.org/document/10729707)] [[ArXiv](https://arxiv.org/abs/2311.06400)]
