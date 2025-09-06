@@ -1,14 +1,16 @@
-# <p align=center>`Awesome-Promptable-Medical-Image-Segmentation`</p> #
+# <p align=center>`Awesome-Promptable-Medical-Image-Segmentation`</p> # 
 
-## Contents
-- [Investigation of Prompting SAM](#-investigation-of-prompting-sam)
-- [Point Prompt](#-point-prompt)
-- [BBox Prompt](#-bbox-prompt)
-- [Scribble Prompt](#-scribble-prompt)
-- [Mask Embedding Prompt](#-mask-embedding-prompt)
-- [Text Prompt](#-text-prompt)
-- [Prompt Fusion](#-prompt-fusion)
-- [Self and Auto Prompting](#-self-and-auto-prompting)
+
+## Contents <!-- omit in toc -->
+- [`Awesome-Promptable-Medical-Image-Segmentation`](#awesome-promptable-medical-image-segmentation)
+  - [🔍 Investigation of Prompting SAM](#-investigation-of-prompting-sam)
+  - [🎯 Point Prompt](#-point-prompt)
+  - [📦 Box Prompt](#-box-prompt)
+  - [🎭 Mask Embedding Prompt](#-mask-embedding-prompt)
+  - [🖱️ Scribble Prompt](#️-scribble-prompt)
+  - [📖 Text Prompt](#-text-prompt)
+  - [🎨 Prompt Fusion](#-prompt-fusion)
+  - [🔔 Self and Auto Prompting](#-self-and-auto-prompting)
 
 ## 🔍 Investigation of Prompting SAM
 **Medical sam adapter: Adapting segment anything model for medical image segmentation** \
@@ -52,6 +54,10 @@
 *Hangyul Yoon, Doohyuk Jang, Jungeun Kim and Eunho Yang* <br>
 [ArXiv 2024] [[ArXiv](https://arxiv.org/abs/2411.16123)]
 
+**EP-SAM: Weakly Supervised Histopathology Segmentation via Enhanced Prompt with Segment Anything** \
+*Joonhyeon Song, Seohwan Yun, Seongho Yoon, Joohyeok Kim, Sangmin Lee* <br>
+[ArXiv 2024] [[ArXiv](https://arxiv.org/abs/2410.13621)] [[Code](https://github.com/QI-NemoSong/EP-SAM)]
+
 **CycleSAM: Few-Shot Surgical Scene Segmentation with Cycle- and Scene-Consistent Feature Matching** \
 *Aditya Murali, Farahdiba Zarin, Adrien Meyer, Pietro Mascagni, Didier Mutter and Nicolas Padoy* <br>
 [ArXiv 2025] [[ArXiv](https://arxiv.org/abs/2407.06795)]
@@ -63,6 +69,10 @@
 **Segment Any Tissue: One-shot reference guided training-free automatic point prompting for medical image segmentation** \
 *Xueyu Liu, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Weixia Han, Min Lei, Ming Li, Xiaoshuang Zhou, Yongfei Wu, Chen Wang, Wen Zheng* <br>
 [MIA 2025] [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841525000970)] [[Code](https://github.com/XueyuLiu/Segment-Any-Tissue)]
+
+**Biosam: Generating sam prompts from superpixel graph for biological instance segmentation** \
+*Miaomiao Cai, Xiaoyu Liu, Zhiwei Xiong, Xuejin Chen* <br>
+[IEEE J. Biomed. Health Inform 2025][[Paper](https://ieeexplore.ieee.org/abstract/document/10705688)]
 
 ## 📦 Box Prompt
 **Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models** \
@@ -81,14 +91,24 @@
 *Yuhao Huang, Xin Yang, Han Zhou, Yan Cao, Haoran Dou, Fajin Dong and Dong Ni* <br>
 [MLMI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73290-4_1)] [[ArXiv](https://arxiv.org/abs/2407.21284)]
 
+**AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model** \
+*Yuchen Li, Li Zhang, Youwei Liang, Pengtao Xie* <br>
+[ArXiv 2024] [[ArXiv](https://arxiv.org/abs/2410.09714)]
+
 **MedLSAM: Localize and Segment Anything Model for 3D CT Images** \
 *Wenhui Lei, Xu Wei, Xiaofan Zhang, Kang Li and Shaoting Zhang* <br>
 [MIA 2025] [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841524002950)] [[ArXiv](https://arxiv.org/abs/2306.14752)] [[Code](https://github.com/openmedlab/MedLSAM)]
 
 ## 🎭 Mask Embedding Prompt
+**Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts** \
+*Assefa Seyoum Wahd, Banafshe Felfeliyan, Yuyue Zhou, Shrimanti Ghosh, Adam McArthur, Jiechen Zhang, Jacob L. Jaremko, Abhilash Hareendranathan* <br>
+[ArXiv 2024] [[ArXiv](https://arxiv.org/abs/2409.06821)] [[Code](https://github.com/aswahd/SamRadiology)]
+
+
 **MA-SAM: A Multi-Atlas Guided SAM Using Pseudo Mask Prompts Without Manual Annotation for Spine Image Segmentation** \
 *Dingwei Fan, Junyong Zhao, Chunlin Li, Xinlong Wang, Ronghan Zhang, Qi Zhu, Mingliang Wang, Haipeng Si, Daoqiang Zhang and Liang Sun* <br>
 [IEEE Trans. Medical Imaging. 2025] [[Paper](https://ieeexplore.ieee.org/document/10819446)] [[Code](https://github.com/findingway221/ma-sam)]
+
 
 ## 🖱️ Scribble Prompt
 **ZScribbleSeg: Zen and the Art of Scribble Supervised Medical Image Segmentation** \
@@ -137,6 +157,10 @@
 *Xiuqi Zheng, Yuhang Zhang, Haoran Zhang, Hongrui Liang, Xueqi Bao, Zhuqing Jiang and Qicheng Lao* <br>
 [MICCAI 2024] [[Paper](https://papers.miccai.org/miccai-2024/183-Paper2832.html)] [[ArXiv](https://arxiv.org/abs/2409.00695)] [[Code](https://github.com/AnnaZzz-zxq/Curriculum-Prompting)]
 
+**TV-SAM: increasing Zero-Shot segmentation performance on multimodal medical images using GPT-4 generated descriptive prompts without human annotation** \
+*Zekun Jiang, Dongjie Cheng, Ziyuan Qin, Jun Gao, Qicheng Lao, Abdullaev Bakhrom Ismoilovich* <br>
+[BDMA 2024] [[Paper](https://ieeexplore.ieee.org/abstract/document/10778143)] [[ArXiv](https://arxiv.org/abs/2402.15759)]
+
 **CRISP-SAM2 : SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation** \
 *Xinlei Yu, Changmiao Wang, Hui Jin, Ahmed Elazab, Gangyong Jia, Xiang Wan, Changqing Zou and Ruiquan Ge* <br>
 [ArXiv 2025] [[ArXiv](https://arxiv.org/abs/2506.23121)] [[Code](https://github.com/YU-deep/CRISP_SAM2)]
@@ -144,6 +168,14 @@
 **BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts** \
 *Suzhe Xu, Jialin Peng and Chengyuan Zhang* <br>
 [ArXiv 2025] [[ArXiv](https://arxiv.org/abs/2503.19769)]
+
+**CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation** \
+*Xiaochuan Ma, Jia Fu, Wenjun Liao, Shichuan Zhang, Guotai Wang* <br>
+[ISBI 2025] [[Paper](https://ieeexplore.ieee.org/abstract/document/10980784)] [[ArXiv](https://arxiv.org/abs/2501.16246)]
+
+**Integrating multi-scale information and diverse prompts in large model SAM-Med2D for accurate left ventricular ejection fraction estimation** \
+*Yagang Wu, Tianli Zhao, Shijun Hu, Qin Wu, Yingxu Chen, Xin Huang, Zhoushun Zheng* <br>
+[Med. Biol. Eng. Comput. 2025] [[Paper](https://link.springer.com/article/10.1007/s11517-025-03310-4)] 
 
 ## 🔔 Self and Auto Prompting
 **Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation** \
