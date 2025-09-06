@@ -72,7 +72,7 @@
 
 **Biosam: Generating sam prompts from superpixel graph for biological instance segmentation** \
 *Miaomiao Cai, Xiaoyu Liu, Zhiwei Xiong, Xuejin Chen* <br>
-[IEEE J. Biomed. Health Inform 2025][[Paper](https://ieeexplore.ieee.org/abstract/document/10705688)]
+[IEEE J. Biomed. Health Inform. 2025][[Paper](https://ieeexplore.ieee.org/abstract/document/10705688)]
 
 ## 📦 Box Prompt
 **Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models** \
