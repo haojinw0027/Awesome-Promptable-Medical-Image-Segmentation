@@ -1,16 +1,15 @@
 # <p align=center>`Awesome-Promptable-Medical-Image-Segmentation`</p> # 
 
 
-## Contents <!-- omit in toc -->
-- [`Awesome-Promptable-Medical-Image-Segmentation`](#awesome-promptable-medical-image-segmentation)
-  - [🔍 Investigation of Prompting SAM](#-investigation-of-prompting-sam)
-  - [🎯 Point Prompt](#-point-prompt)
-  - [📦 Box Prompt](#-box-prompt)
-  - [🎭 Mask Embedding Prompt](#-mask-embedding-prompt)
-  - [🖱️ Scribble Prompt](#️-scribble-prompt)
-  - [📖 Text Prompt](#-text-prompt)
-  - [🎨 Prompt Fusion](#-prompt-fusion)
-  - [🔔 Self and Auto Prompting](#-self-and-auto-prompting)
+## Contents
+- [Investigation of Prompting SAM](#-investigation-of-prompting-sam)
+- [Point Prompt](#-point-prompt)
+- [BBox Prompt](#-bbox-prompt)
+- [Scribble Prompt](#-scribble-prompt)
+- [Mask Embedding Prompt](#-mask-embedding-prompt)
+- [Text Prompt](#-text-prompt)
+- [Prompt Fusion](#-prompt-fusion)
+- [Self and Auto Prompting](#-self-and-auto-prompting)
 
 ## 🔍 Investigation of Prompting SAM
 **Medical sam adapter: Adapting segment anything model for medical image segmentation** \
