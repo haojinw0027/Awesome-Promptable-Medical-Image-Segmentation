@@ -28,6 +28,10 @@
 *Qing Xu, Jiaxuan Li, Xiangjian He, Chenxin Li, Fiseha B. Tesem, Wenting Duan, Zhen Chen, Rong Qu, Jonathan M. Garibaldi and Chang Wen Chen* <br>
 [ArXiv 2025] [[ArXiv](https://arxiv.org/abs/2407.14153v5)] [[Code](https://github.com/xq141839/De-LightSAM)]
 
+**Diffusion-empowered AutoPrompt MedSAM** \
+*Peng Huang, Shu Hu, Bo Peng, Xun Gong, Penghang Yin, Hongtu Zhu, Xi Wu and Xin Wang* <br>
+[ArXiv 2025] [[ArXiv](https://arxiv.org/abs/2502.06817)] [[Code](https://github.com/HP-ML/AutoPromptMedSAM)]
+
 ## 🎯 Point Prompt
 **SAMAUG: POINT PROMPT AUGMENTATION FOR SEGMENT ANYTHING MODEL** \
 *Haixing Dai, Chong Ma, Zhiling Yan, Zhengliang Liu, Enze Shi, Yiwei Li, Peng Shu, Xiaozheng Wei, Lin Zhao, Zihao Wu, Fang Zeng, Dajiang Zhu, Wei Liu, Quanzheng Li, Lichao Sun, Shu Zhang, Tianming Liu and Xiang Li* <br>
