@@ -12,6 +12,10 @@
   - [🔔 Prompt Generation and Optimization](#-prompt-generation-and-optimization)
 
 ## 🛏️ Embedding Prompt
+**CEmb-SAM: Segment Anything Model with Condition Embedding for Joint Learning from Heterogeneous Datasets** \
+*Dongik Shin, Beomsuk Kim, M.D. and Seungjun Baek* <br>
+[MICCAI 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_27)] [[ArXiv](https://arxiv.org/abs/2308.06957)] [[Code](https://github.com/i-dongik/CEmb-SAM)]
+
 **Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision** \
 *Mélanie Gaillochet, Christian Desrosiers and Hervé Lombaert* <br>
 [MedAGI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73471-7_7)] [[ArXiv](https://arxiv.org/abs/2409.20293)] [[Code](https://github.com/Minimel/MedSAMWeakFewShotPromptAutomation)]
@@ -37,21 +41,52 @@
 *Qi Wu, Yuyao Zhang and Marawan Elbatel* <br>
 [DART 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_16)] [[ArXiv](https://arxiv.org/abs/2308.07624)] [[Code](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM)]
 
+**EviPrompt: A training-free evidential prompt generation method for adapting segment anything model in medical images** \
+*Yinsong Xu, Jiaqi Tang, Aidong Men and Qingchao Chen* <br>
+[IEEE Trans. Image Process 2024] [[Paper](https://ieeexplore.ieee.org/document/10729707)] [[ArXiv](https://arxiv.org/abs/2311.06400)] [[Code](https://github.com/SPIresearch/EviPrompt)]
+
+**SemiSAM: Enhancing Semi-Supervised Medical Image Segmentation via SAM-Assisted Consistency Regularization** \
+[BIBM 2024] [[Paper](https://ieeexplore.ieee.org/abstract/document/10821951)] [[ArXiv](https://arxiv.org/abs/2312.06316)]
+
+**Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images** \
+*Qingyuan Liu and Avideh Zakhor * <br>
+[ECCV 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-91721-9_10)] [[ArXiv](https://arxiv.org/abs/2410.02207)] 
+
+**Dr-SAM: An End-to-End Framework for Vascular Segmentation Diameter Estimation and Anomaly Detection on Angiography Images** \
+*Vazgen Zohranyan, Vagner Navasardyan, Hayk Navasardyan, Jan Borggrefe and Shant Navasardyan* <br>
+[CVPR 2024] [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/html/Zohranyan_Dr-SAM_An_End-to-End_Framework_for_Vascular_Segmentation_Diameter_Estimation_and_CVPRW_2024_paper.html)] [[ArViv](https://arxiv.org/abs/2404.17029)] [[Code](https://github.com/vazgenzohranyan/Dr.SAM)]
+
 **Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation** \
 *Juzheng Miao, Cheng Chen, Keli Zhang, Jie Chuai, Quanzheng Li, Pheng-Ann Heng* <br>
-[MICCAI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_16)] [[ArXiv](https://arxiv.org/abs/2407.05416)] 
+[MICCAI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_16)] [[ArXiv](https://arxiv.org/abs/2407.05416)]
+
+**From generalization to precision: Exploring sam for tool segmentation in surgical environments** \
+*Kanyifeechukwu J. Oguine, Roger D. Soberanis-Mukul, Nathan Drenkow and Mathias Unberath* <br>
+[SPIE Medical Imaging 2024] [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/1292603/From-generalization-to-precision--exploring-SAM-for-tool-segmentation/10.1117/12.3006981.short)] [[ArXiv](https://arxiv.org/abs/2402.17972)]
 
 **Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain** \
 *Hangyul Yoon, Doohyuk Jang, Jungeun Kim and Eunho Yang* <br>
 [ArXiv 2024] [[ArXiv](https://arxiv.org/abs/2411.16123)]
 
 **EP-SAM: Weakly Supervised Histopathology Segmentation via Enhanced Prompt with Segment Anything** \
-*Joonhyeon Song, Seohwan Yun, Seongho Yoon, Joohyeok Kim, Sangmin Lee* <br>
+*Joonhyeon Song, Seohwan Yun, Seongho Yoon, Joohyeok Kim and Sangmin Lee* <br>
 [ArXiv 2024] [[ArXiv](https://arxiv.org/abs/2410.13621)] [[Code](https://github.com/QI-NemoSong/EP-SAM)]
+
+**Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation** \
+*Saiyang Na, Yuzhi Guo, Feng Jiang, Hehuan Ma and Junzhou Huang* <br>
+[ArXiv 2024] [[ArXiv](https://arxiv.org/abs/2401.13220)]
+
+**Part-aware Prompted Segment Anything Model for Adaptive Segmentation** \
+*Chenhui Zhao and Liyue Shen* <br>
+[ArXiv 2024] [[ArXiv](http://arxiv.org/abs/2403.05433)] [[Code](https://github.com/Zch0414/p2sam)]
 
 **CycleSAM: Few-Shot Surgical Scene Segmentation with Cycle- and Scene-Consistent Feature Matching** \
 *Aditya Murali, Farahdiba Zarin, Adrien Meyer, Pietro Mascagni, Didier Mutter and Nicolas Padoy* <br>
 [ArXiv 2025] [[ArXiv](https://arxiv.org/abs/2407.06795)]
+
+**MIAS-SAM: Medical Image Anomaly Segmentation without thresholding** \
+*Marco Colussi, Dragan Ahmetovic and Sergio Mascetti* <br>
+[ArXiv 2025] [[ArXiv](http://arxiv.org/abs/2505.22762)]
 
 **Optimizing prompt strategies for SAM: advancing lesion segmentation across diverse medical imaging modalities** \
 *Yuli Wang, Victoria Shi, Wen-Chi Hsu, Yuwei Dai, Sophie Yao, Zhusi Zhong, Zishu Zhang, Jing Wu, Aaron Maxwell, Scott Collins, Zhicheng Jiao and Harrison X. Bai* <br>
@@ -64,6 +99,10 @@
 **Biosam: Generating sam prompts from superpixel graph for biological instance segmentation** \
 *Miaomiao Cai, Xiaoyu Liu, Zhiwei Xiong, Xuejin Chen* <br>
 [IEEE J. Biomed. Health Inform. 2025][[Paper](https://ieeexplore.ieee.org/abstract/document/10705688)]
+
+**Using Foundation Models as Pseudo-label Generators for Pre-clinical 4D Cardiac CT Segmentation** \
+*Anne-Marie Rickmann, Stephanie L. Thorn, Shawn S. Ahn, Supum Lee, Selen Uman, Taras Lysyy, Rachel Burns, Nicole Guerrera, Francis G. Spinale, Jason A. Burdick, Albert J. Sinusas and James S. Duncan* <br>
+[FIMH 2025] [[Paper](http://link.springer.com/chapter/10.1007/978-3-031-94562-5_23)] [[ArXiv](https://www.arxiv.org/abs/2505.09564)] 
 
 ## 📦 Box Prompt
 **Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation** \
