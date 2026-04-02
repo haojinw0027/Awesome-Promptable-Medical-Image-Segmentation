@@ -41,6 +41,10 @@
 *Qi Wu, Yuyao Zhang and Marawan Elbatel* <br>
 [DART 2023] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_16)] [[ArXiv](https://arxiv.org/abs/2308.07624)] [[Code](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM)]
 
+**HAL-IA: A Hybrid Active Learning framework using Interactive Annotation for medical image segmentation** \
+*Xiaokang Li, Menghua Xia, Jing Jiao, Shichong Zhou, Cai Chang, Yuanyuan Wang, Yi Guo* <br>
+[MedIA 2023] [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841523001226)]
+
 **EviPrompt: A training-free evidential prompt generation method for adapting segment anything model in medical images** \
 *Yinsong Xu, Jiaqi Tang, Aidong Men and Qingchao Chen* <br>
 [IEEE Trans. Image Process 2024] [[Paper](https://ieeexplore.ieee.org/document/10729707)] [[ArXiv](https://arxiv.org/abs/2311.06400)] [[Code](https://github.com/SPIresearch/EviPrompt)]
@@ -60,6 +64,10 @@
 **Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation** \
 *Juzheng Miao, Cheng Chen, Keli Zhang, Jie Chuai, Quanzheng Li and Pheng-Ann Heng* <br>
 [MICCAI 2024] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72120-5_16)] [[ArXiv](https://arxiv.org/abs/2407.05416)]
+
+**PRISM: A Promptable and Robust Interactive Segmentation Model with Visual Prompts** \
+*Hao Li, Han Liu, Dewei Hu, Jiacheng Wang and Ipek Oguz* <br>
+[MICCAI 2024] [[ArXiv](https://arxiv.org/abs/2404.15028)] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_37)] [[Code](https://github.com/MedICL-VU/PRISM)]
 
 **From generalization to precision: Exploring sam for tool segmentation in surgical environments** \
 *Kanyifeechukwu J. Oguine, Roger D. Soberanis-Mukul, Nathan Drenkow and Mathias Unberath* <br>
@@ -81,6 +89,22 @@
 *Chenhui Zhao and Liyue Shen* <br>
 [ArXiv 2024] [[ArXiv](http://arxiv.org/abs/2403.05433)] [[Code](https://github.com/Zch0414/p2sam)]
 
+**Segment anything in medical images** \
+*Jun Ma, Yuting He, Feifei Li, Lin Han, Chenyu You and Bo Wang* <br>
+[Nat. Communications 2024] [[ArXiv](https://arxiv.org/abs/2304.12306)] [[Paper](https://www.nature.com/articles/s41467-024-44824-z)] [[Code](https://github.com/bowang-lab/MedSAM)]
+
+**Evaluating segment anything model (SAM) on MRI scans of brain tumors** \
+*Luqman Ali, Fady Alnajjar, Muhammad Swavaf, Omar Elharrouss, Alaa Abd-alrazaq and Rafat Damseh* <br>
+[Nat. Scientific Reports 2024] [[Paper](https://www.nature.com/articles/s41598-024-72342-x)]
+
+**An efficient segment anything model for the segmentation of medical images** \
+*Guanliang Dong, Zhangquan Wang, Yourong Chen, Yuliang Sun, Hongbo Song, Liyuan Liu and Haidong Cui* <br>
+[Nat. Scientific Reports 2024] [[Paper](https://www.nature.com/articles/s41598-024-70288-8)]
+
+**An effective and open source interactive 3D medical image segmentation solution** \
+*Yi Gao, Xiaohui Chen, Qinzhu Yang, Andras Lasso, Ivan Kolesov, Steve Pieper, Ron Kikinis, Allen Tannenbaum and Liangjia Zhu* <br>
+[Nat. Scientific Reports 2024] [[Paper](https://www.nature.com/articles/s41598-024-80206-7)]
+
 **CycleSAM: Few-Shot Surgical Scene Segmentation with Cycle- and Scene-Consistent Feature Matching** \
 *Aditya Murali, Farahdiba Zarin, Adrien Meyer, Pietro Mascagni, Didier Mutter and Nicolas Padoy* <br>
 [ArXiv 2025] [[ArXiv](https://arxiv.org/abs/2407.06795)]
@@ -99,11 +123,15 @@
 
 **Biosam: Generating sam prompts from superpixel graph for biological instance segmentation** \
 *Miaomiao Cai, Xiaoyu Liu, Zhiwei Xiong, Xuejin Chen* <br>
-[IEEE J. Biomed. Health Inform. 2025][[Paper](https://ieeexplore.ieee.org/abstract/document/10705688)]
+[IEEE J. Biomed. Health Inform. 2025] [[Paper](https://ieeexplore.ieee.org/abstract/document/10705688)]
 
 **Using Foundation Models as Pseudo-label Generators for Pre-clinical 4D Cardiac CT Segmentation** \
 *Anne-Marie Rickmann, Stephanie L. Thorn, Shawn S. Ahn, Supum Lee, Selen Uman, Taras Lysyy, Rachel Burns, Nicole Guerrera, Francis G. Spinale, Jason A. Burdick, Albert J. Sinusas and James S. Duncan* <br>
 [FIMH 2025] [[Paper](http://link.springer.com/chapter/10.1007/978-3-031-94562-5_23)] [[ArXiv](https://www.arxiv.org/abs/2505.09564)] 
+
+**Integrating SAM priors with U-Net for enhanced multiclass cell detection in digital pathology** \
+*Zheng Wu, Ji-Yun Yang, Chang-Bao Yan, Cheng-Gui Zhang and Hai-Chao Yang* <br>
+[Nat. Scientific Reports 2025] [[Paper](https://www.nature.com/articles/s41598-025-99278-0)]
 
 ## 📦 Box Prompt
 **Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation** \
@@ -143,6 +171,10 @@
 *Bin Xie, Hao Tang, Bin Duan, Dawen Cai, Yan Yan and Gady Agam* <br>
 [ArXiv 2024] [[ArXiv](https://arxiv.org/abs/2403.14103)]
 
+**DeSAM: Decoupled Segment Anything Model for Generalizable Medical Image Segmentation** \
+*Yifan Gao, Wei Xia, Dingdu Hu, Wenkui Wang and Xin Gao* <br>
+[MICCAI 2024] [[ArXiv](https://arxiv.org/abs/2306.00499)] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_48)] [[Code](https://github.com/yifangao112/DeSAM)]
+
 **Mixture-of-Shape-Experts (MoSE): End-to-End Shape Dictionary Framework to Prompt SAM for Generalizable Medical Segmentation** \
 *Jia Wei, Xiaoqi Zhao, Jonghye Woo, Jinsong Ouyang, Georges El Fakhri, Qingyu Chen and Xiaofeng Liu* <br>
 [CVPR 2025] [[Paper](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/papers/Wei_Mixture-of-Shape-Experts_MoSE_End-to-End_Shape_Dictionary_Framework_to_Prompt_SAM_for_CVPRW_2025_paper.pdf)] [[ArXiv](https://arxiv.org/abs/2504.09601)] 
@@ -150,6 +182,10 @@
 **MA-SAM: A Multi-Atlas Guided SAM Using Pseudo Mask Prompts Without Manual Annotation for Spine Image Segmentation** \
 *Dingwei Fan, Junyong Zhao, Chunlin Li, Xinlong Wang, Ronghan Zhang and Qi Zhu* <br>
 [IEEE Trans. Medical Imaging 2025] [[Paper](https://ieeexplore.ieee.org/abstract/document/10819446)]
+
+**SAM-I-Am: Semantic boosting for zero-shot atomic-scale electron micrograph segmentation** \
+*Waqwoya Abebe, Jan Strube, Luanzheng Guo, Nathan R. Tallent, Oceane Bel, Steven Spurgeon, Christina Doty, Ali Jannesari* <br>
+[CMS 2025] [[ArXiv](https://arxiv.org/abs/2404.06638)] [[Paper](https://www.sciencedirect.com/science/article/pii/S0927025624006219)] 
 
 ## 📖 Text Prompt
 **Ariadne’s Thread: Using Text Prompts to Improve Segmentation of Infected Areas from Chest X-ray Images** \
@@ -218,7 +254,19 @@
 
 **One Model to Rule them All: Towards Universal Segmentation for Medical Images with Text Prompts** \
 *Ziheng Zhao, Yao Zhang, Chaoyi Wu, Xiaoman Zhang, Ya Zhang, Yanfeng Wang and Weidi Xie* <br>
-[Digit. Med. 2025] [[Paper](https://www.nature.com/articles/s41746-025-01964-w)] [[ArXiv](https://arxiv.org/abs/2312.17183v5)]
+[npj Digit. Med. 2025] [[Paper](https://www.nature.com/articles/s41746-025-01964-w)] [[ArXiv](https://arxiv.org/abs/2312.17183v5)]
+
+**Large-vocabulary segmentation for medical images with text prompts** \
+*Ziheng Zhao, Yao Zhang, Chaoyi Wu, Xiaoman Zhang, Xiao Zhou, Ya Zhang, Yanfeng Wang and Weidi Xie* <br>
+[npj Digit. Med. 2025] [[ArXiv](https://arxiv.org/abs/2312.17183)] [[Paper](https://www.nature.com/articles/s41746-025-01964-w)] [[Code](https://github.com/zhaoziheng/SAT)]
+
+**Vision-language foundation model for 3D medical imaging** \
+*Jing Wu, Yuli Wang, Zhusi Zhong, Weihua Liao, Natalia Trayanova, Zhicheng Jiao and Harrison X. Bai* <br>
+[npj Artificial Intelligence 2025] [[Paper](https://www.nature.com/articles/s44387-025-00015-9)]
+
+**Modality-projection universal model for comprehensive full-body medical imaging segmentation** \
+*Yixin Chen, Lin Gao, Yajuan Gao, Rui Wang, Jingge Lian, Xiangxi Meng, Yanhua Duan, Leiying Chai, Hongbin Han, Zhaoping Cheng and Zhaoheng Xie* <br>
+[Nature Communications 2025] [[ArXiv](https://arxiv.org/abs/2412.19026)] [[Paper](https://www.nature.com/articles/s41467-025-64469-w)] [[Code](https://github.com/YixinChen-AI/MPUM)]
 
 **PG-SAM: Prior-Guided SAM with Medical for Multi-organ Segmentation** \
 *Yiheng Zhong, Zihong Luo, Chengzhi Liu, Feilong Tang, Zelin Peng, Ming Hu, Yingzhen Hu, Jionglong Su, Zongyuan Ge and Imran Razzak* <br>
@@ -240,6 +288,10 @@
 **SurgicalPart-SAM: Part-to-Whole Collaborative Prompting for Surgical Instrument Segmentation** \
 *Wenxi Yue, Jing Zhang, Kun Hu, Qiuxia Wu, Zongyuan Ge, Yong Xia, Jiebo Luo and Zhiyong Wang* <br>
 [ArXiv 2023] [[ArXiv](https://arxiv.org/abs/2312.14481)] [[Code](https://github.com/wenxi-yue/SurgicalPart-SAM)]
+
+**False Negative/Positive Control for SAM on Noisy Medical Images** \
+*Xing Yao, Han Liu, Dewei Hu, Daiwei Lu, Ange Lou, Hao Li, Ruining Deng, Gabriel Arenas, Baris Oguz, Nadav Schwartz, Brett C Byram and Ipek Oguz* <br>
+[ArXiv 2023] [[ArXiv](https://arxiv.org/abs/2308.10382)] 
 
 **Optimizing Efficiency and Effectiveness in Sequential Prompt Strategy for SAM Using Reinforcement Learning** \
 *Yifei Huang, Chuyun Shen, Wenhao Li, Xiangfeng Wang, Bo Jin and Haibin Cai* <br>
@@ -276,6 +328,14 @@
 **Zero-Shot Pseudo Labels Generation Using SAM and CLIP for Semi-Supervised Semantic Segmentation** \
 *Nagito Saito, Shintaro Ito, Koichi Ito and Takafumi Aoki* <br>
 [ICIP 2025] [[ArXiv](https://arxiv.org/abs/2505.19846)] [[Project](https://arxiv.org/abs/2505.19846)]
+
+**Generalist medical foundation model improves prostate cancer segmentation from multimodal MRI images** \
+*Yuhan Zhang, Xiao Ma, Mingchao Li, Kun Huang, Jie Zhu, Miao Wang, Xi Wang, Menglin Wu and Pheng-Ann Heng* <br>
+[npj Digital Medicine 2025] [[Paper](https://www.nature.com/articles/s41746-025-01756-2)] [[Code](https://github.com/ZhangYH0502/PCaSAM)]
+
+**A promptable CT foundation model for solid tumor evaluation** \
+*Léo Machado, Léo Alberge, Hélène Philippe, Elodie Ferreres, Julien Khlaut, Julie Dupuis, Korentin Le Floch, Denis Habip Gatenyo, Pascal Roux, Jules Grégory, Maxime Ronot, Corentin Dancette, Tom Boeken, Daniel Tordjman, Pierre Manceron and Paul Hérent* <br>
+[npj Precision Oncology 2025] [[ArXiv](https://arxiv.org/abs/2410.07908)] [[Paper](https://www.nature.com/articles/s41698-025-00903-y)]
 
 **CRISP-SAM2 : SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation** \
 *Xinlei Yu, Changmiao Wang, Hui Jin, Ahmed Elazab, Gangyong Jia, Xiang Wan, Changqing Zou and Ruiquan Ge* <br>
@@ -321,6 +381,10 @@
 **SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation** \
 *Ron Keuth, Lasse Hansen, Maren Balks, Ronja Jäger, Anne-Nele Schröder, Ludger Tüshaus and Mattias Heinrich* <br>
 [MICCAI 2024] [[ArXiv](https://arxiv.org/abs/2411.12602)] [[Code](https://github.com/multimodallearning/SamCarriesTheBurden)]
+
+**Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation** \
+*Zhikai Wei, Wenhui Dong, Peilin Zhou, Yuliang Gu, Zhou Zhao and Yongchao Xu* <br>
+[MICCAI 2024] [[ArXiv](https://arxiv.org/abs/2409.12522)] [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_50)] [[Code](https://github.com/wkklavis/DAPSAM)]
 
 **Benchmarking Human and Automated Prompting in the Segment Anything Model** \
 *Jorge Quesada, Zoe Fowler, Mohammad Alotaibi, Mohit Prabhushankar and Ghassan AlRegib* <br>
