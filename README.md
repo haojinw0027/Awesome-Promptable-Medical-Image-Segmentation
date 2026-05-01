@@ -455,17 +455,18 @@
 If you find this repository useful, please consider citing our work:
 
 ```bibtex
-@article{Yu2026.04.27.721127,
-  author    = {Yu, Suhao and Wang, Haojin and Wang, Ningsen and Chen, Sicheng and Wu, Juncheng and Yuan, Zhenlong and Qi, Tianhao and Zhou, Zongwei and Xia, Fei and Ma, Jun and Zhou, Yuyin},
-  title     = {A Decade of Deep Learning-based Biomedical Image Segmentation},
-  elocation-id = {2026.04.27.721127},
-  year      = {2026},
-  doi       = {10.64898/2026.04.27.721127},
-  publisher = {Cold Spring Harbor Laboratory},
-  URL       = {https://www.biorxiv.org/content/early/2026/04/30/2026.04.27.721127},
-  eprint    = {https://www.biorxiv.org/content/early/2026/04/30/2026.04.27.721127.full.pdf},
-  journal   = {bioRxiv}
+@article {Yu2026.04.27.721127,
+	author = {Yu, Suhao and Wang, Haojin and Wang, Ningsen and Chen, Sicheng and Wu, Juncheng and Yuan, Zhenlong and Qi, Tianhao and Zhou, Zongwei and Xia, Fei and Ma, Jun and Zhou, Yuyin},
+	title = {A Decade of Deep Learning-based Biomedical Image Segmentation},
+	elocation-id = {2026.04.27.721127},
+	year = {2026},
+	doi = {10.64898/2026.04.27.721127},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2026/04/30/2026.04.27.721127},
+	eprint = {https://www.biorxiv.org/content/early/2026/04/30/2026.04.27.721127.full.pdf},
+	journal = {bioRxiv}
 }
+
 ```
 
 If you have any questions or suggestions, please feel free to open an issue or contact us.
