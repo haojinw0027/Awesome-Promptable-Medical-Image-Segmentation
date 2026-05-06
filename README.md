@@ -1,8 +1,11 @@
 # <p align=center>`Awesome-Promptable-Medical-Image-Segmentation`</p> # 
 
-<p align="center"><i>Suhao Yu<sup>*1</sup>, Haojin Wang<sup>*2</sup>, Ningsen Wang<sup>*3</sup>, Sicheng Chen<sup>*5</sup>, Juncheng Wu<sup>3</sup>, Zhenlong Yuan<sup>3</sup>, Tianhao Qi<sup>†3</sup>, Zongwei Zhou<sup>4</sup>, Fei Xia<sup>†5,6</sup>, Jun Ma<sup>7</sup> and Yuyin Zhou<sup>†3</sup></i></p>
-<p align="center"><sup>1</sup>University of Pennsylvania, <sup>2</sup>University of Illinois Urbana-Champaign, <sup>3</sup>University of California, Santa Cruz, <sup>4</sup>Johns Hopkins University, <sup>5</sup>University of California, Irvine, <sup>6</sup>Beckman Laser Institute and Medical Clinic, UC Irvine, <sup>7</sup>University Health Network</p>
-<p align="center">[bioRxiv 2026] [<a href="https://www.biorxiv.org/content/early/2026/04/30/2026.04.27.721127">Paper</a>]</p>
+<p align="center">
+  <b>A Decade of Deep Learning-based Biomedical Image Segmentation</b><br>
+  <i>Suhao Yu<sup>*1</sup>, Haojin Wang<sup>*2</sup>, Ningsen Wang<sup>*3</sup>, Sicheng Chen<sup>*5</sup>, Juncheng Wu<sup>3</sup>, Zhenlong Yuan<sup>3</sup>, Tianhao Qi<sup>†3</sup>,<br>Zongwei Zhou<sup>4</sup>, Fei Xia<sup>†5,6</sup>, Jun Ma<sup>7</sup> and Yuyin Zhou<sup>†3</sup></i><br>
+  <sup>1</sup>University of Pennsylvania, <sup>2</sup>University of Illinois Urbana-Champaign, <sup>3</sup>University of California, Santa Cruz, <sup>4</sup>Johns Hopkins University, <sup>5</sup>University of California, Irvine, <sup>6</sup>Beckman Laser Institute and Medical Clinic, UC Irvine, <sup>7</sup>University Health Network<br>
+  [bioRxiv 2026] [<a href="https://www.biorxiv.org/content/early/2026/04/30/2026.04.27.721127">Paper</a>]
+</p>
 
 ## Contents<!-- omit in toc -->
 - [`Awesome-Promptable-Medical-Image-Segmentation`](#awesome-promptable-medical-image-segmentation)
