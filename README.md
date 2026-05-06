@@ -1,21 +1,22 @@
-# <p align=center>`Awesome-Promptable-Medical-Image-Segmentation`</p> # 
-
+<h1 align="center">A Decade of Deep Learning-based Biomedical Image Segmentation</h1>
 <p align="center">
-  <b>A Decade of Deep Learning-based Biomedical Image Segmentation</b><br>
   <i>Suhao Yu<sup>*1</sup>, Haojin Wang<sup>*2</sup>, Ningsen Wang<sup>*3</sup>, Sicheng Chen<sup>*5</sup>, Juncheng Wu<sup>3</sup>, Zhenlong Yuan<sup>3</sup>, Tianhao Qi<sup>†3</sup>,<br>Zongwei Zhou<sup>4</sup>, Fei Xia<sup>†5,6</sup>, Jun Ma<sup>7</sup> and Yuyin Zhou<sup>†3</sup></i><br>
   <sup>1</sup>University of Pennsylvania, <sup>2</sup>University of Illinois Urbana-Champaign, <sup>3</sup>University of California, Santa Cruz, <sup>4</sup>Johns Hopkins University, <sup>5</sup>University of California, Irvine, <sup>6</sup>Beckman Laser Institute and Medical Clinic, UC Irvine, <sup>7</sup>University Health Network<br>
   [bioRxiv 2026] [<a href="https://www.biorxiv.org/content/early/2026/04/30/2026.04.27.721127">Paper</a>]
 </p>
 
+## 📢 News
+
+- **[2026-05-06]** 🎉 We release the first version of our survey on a decade of deep learning-based biomedical image segmentation!
+
 ## Contents<!-- omit in toc -->
-- [`Awesome-Promptable-Medical-Image-Segmentation`](#awesome-promptable-medical-image-segmentation)
-  - [🛏️ Embedding Prompt](#️-embedding-prompt)
-  - [🎯 Point Prompt](#-point-prompt)
-  - [📦 Box Prompt](#-box-prompt)
-  - [🎭 Mask Prompt](#-mask-prompt)
-  - [📖 Text Prompt](#-text-prompt)
-  - [🎨 Multimodal Prompt Fusion](#-multimodal-prompt-fusion)
-  - [🔔 Prompt Generation and Optimization](#-prompt-generation-and-optimization)
+- [🛏️ Embedding Prompt](#️-embedding-prompt)
+- [🎯 Point Prompt](#-point-prompt)
+- [📦 Box Prompt](#-box-prompt)
+- [🎭 Mask Prompt](#-mask-prompt)
+- [📖 Text Prompt](#-text-prompt)
+- [🎨 Multimodal Prompt Fusion](#-multimodal-prompt-fusion)
+- [🔔 Prompt Generation and Optimization](#-prompt-generation-and-optimization)
 
 ## 🛏️ Embedding Prompt
 **CEmb-SAM: Segment Anything Model with Condition Embedding for Joint Learning from Heterogeneous Datasets** \
